@@ -22,6 +22,7 @@ requires+=(
 	file
 	gcc
 	git
+	glib2-devel
 	itstool
 	libcanberra
 	libgnome-keyring
